@@ -1,0 +1,6 @@
+[submodule "lib/benchmark"]
+	path = lib/benchmark
+	url = https://github.com/google/benchmark
+[submodule "lin/benchmark"]
+	path = lin/benchmark
+	url = https://github.com/google/benchmark
