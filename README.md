@@ -1,6 +1,6 @@
 # CMake C++ boilerplate with google test and google benchmark
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Build Status](https://travis-ci.com/akanmuratcimen/cmakecppboilerplate.svg?branch=master)](https://travis-ci.com/akanmuratcimen/cmakecppboilerplate)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Build Status](https://travis-ci.org/akanmuratcimen/cmakecppboilerplate.svg?branch=master)](https://travis-ci.org/akanmuratcimen/cmakecppboilerplate)
 
 A cross-platform C++17 boilerplate project with google test and google benchmark libraries.
 
